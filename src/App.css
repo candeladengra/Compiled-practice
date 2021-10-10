@@ -1,0 +1,21 @@
+#navBar {
+    background: linear-gradient(to bottom, pink, white);
+    font-size: 24px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 64px;
+}
+
+a.barElements {
+    color: rgb(255, 0, 136);
+    text-decoration: none;
+}
+
+#pic {
+    width: 300px;
+}
+
+#btns {
+    width: 100vw;
+}
